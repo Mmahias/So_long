@@ -30,4 +30,4 @@ make all
 
 ------------------------------------------------------------------------------------------------------------------------
 
-![migif](https://user-images.githubusercontent.com/76960878/140640928-89b26b9b-e5d1-458d-82c4-550e8b02edd2.gif)
+![solong](https://user-images.githubusercontent.com/76960878/140642205-f16b50eb-0666-43df-b6a0-a0c88afd1e17.gif)
